@@ -96,7 +96,7 @@
     try {
         // ✅ Razorpay Payment Integration
         var options = {
-            "key": "", // Replace with your Razorpay Key
+            "key": "rzp_test_ThB8LwtBxSQnmd", // Replace with your Razorpay Key
             "amount": numericTotal * 100, // Convert ₹ to paise
             "currency": "INR",
             "name": "The Macrame Lofts",
