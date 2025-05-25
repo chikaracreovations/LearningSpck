@@ -1063,7 +1063,7 @@ p4 {
 
 /* Chat Header */
 .chat-header {
-    background: #007bff;
+    background: dimgrey;
     color: white;
     padding: 15px;
     display: flex;
@@ -1115,7 +1115,7 @@ p4 {
 
 /* Send Button */
 .chat-body button {
-    background: #007bff;
+    background: black;
     color: white;
     padding: 10px;
     border: none;
